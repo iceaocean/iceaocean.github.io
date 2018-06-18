@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages[Blog of iceaocean]
+## Welcome to GitHub Pages[welcome to Blog of iceaocean]
 . You still have lots more to work on.
 You can use the [editor on GitHub](https://github.com/iceaocean/iceaocean.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
